@@ -102,5 +102,7 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="鳳凰衛視電影台" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" group-title="",鳳凰衛視電影台 [Offline]
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="無綫新聞台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://img.tvb.com/inews_web/web/tvbnews_icon.gif" group-title="",無綫新聞台（81） (1080p)
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="無綫新聞台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://img.tvb.com/inews_web/web/tvbnews_icon.gif" group-title="",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="广东公共测试" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://img.tvb.com/inews_web/web/tvbnews_icon.gif" group-title="",广东公共测试
+https://tcdn.itouchtv.cn/live/gdgg.m3u8
